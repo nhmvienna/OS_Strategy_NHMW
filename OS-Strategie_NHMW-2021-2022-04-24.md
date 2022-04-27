@@ -1,155 +1,190 @@
-OS-Strategie NHMW-2022.doc
-
 # Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW)
-
 ## - the benefits of openness
+Version 1.0 (2022-04-27)
 
-Stand: 24. 4. 2022
+---
 
-Authors: Vohland, Katrin; Eichert, Stefan; Fiedler, Sarah; Kapun,
-Martin; Kroh, Andreas; Mehu-Blantar, Ines; Ott, Iris; Rainer, Heimo;
-Schwentner, Martin; Zimmermann Eva
+**Authors:** 
+*Vohland, Katrin
+<a href="https://orcid.org/0000-0002-7214-7015">
+<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+</a>;
+Eichert, Stefan 
+<a href="https://orcid.org/0000-0002-5827-0797">
+<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+</a>;
+Fiedler, Sarah
+;
+Kapun, Martin
+<a href="https://orcid.org/0000-0002-3810-0504">
+<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+</a>;
+Kroh, Andreas
+<a href="https://orcid.org/0000-0002-8566-8848">
+<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+</a>;
+Mehu-Blantar, Ines
+<a href="https://orcid.org/0000-0003-0564-4617">
+<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+</a>;
+Ott, Iris
+;
+Rainer, Heimo
+<a href="https://orcid.org/0000-0002-5963-349X">
+<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+</a>;
+Schwentner, Martin
+<a href="https://orcid.org/0000-0002-1373-456X">
+<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+</a>;
+Zimmermann, Eva
+;*
 
-Naturhistorisches Museum Wien; Burgring 7;1010 Wien;
+Naturhistorisches Museum Wien  
+Burgring 7  
+1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
 
-### [Summary 4](#summary)
+---
 
-### [Introduction 4](#introduction)
+# Table of Contents
+### [Summary](#summary)
 
--   #### [The vision of opening science in museums 5](#the-vision-of-opening-science-in-museums)
+### [Introduction](#introduction)
 
--   #### [What are key conflicts of interests? 6](#what-are-key-conflicts-of-interests)
+-   #### [The vision of opening science in museums](#the-vision-of-opening-science-in-museums)
 
--   #### [Why an Open Science strategy for the NHMW? 7](#why-an-open-science-strategy-for-the-nhmw)
+-   #### [What are key conflicts of interests?](#what-are-key-conflicts-of-interests)
 
-### [Open Science Terminology - Definitions 7](#open-science-terminology---definitions)
+-   #### [Why an Open Science strategy for the NHMW?](#why-an-open-science-strategy-for-the-nhmw)
 
-### [Open Data / Open Content 8](#open-data-open-content)
+### [Open Science Terminology - Definitions](#open-science-terminology---definitions)
 
--   #### [Definition 8](#definition)
+### [Open Data / Open Content](#open-data-open-content)
 
--   #### [Introduction and state of the art8](#introduction-and-state-of-the-art)
+-   #### [Definition](#definition)
 
--   #### [Targets 9](#targets)
+-   #### [Introduction and state of the art](#introduction-and-state-of-the-art)
 
--   #### [Measures 9](#measures)
+-   #### [Targets](#targets)
 
-    -   ##### [FAIR Data 9](#_Toc101728776)
+-   #### [Measures](#measures)
 
-    -   ##### [Research Data 9](#research-data)
+    -   ##### [FAIR Data](#_Toc101728776)
 
-    -   ##### [Repositories 10](#repositories)
+    -   ##### [Research Data](#research-data)
 
-    -   ##### [Interfaces 10](#interfaces)
+    -   ##### [Repositories](#repositories)
 
-### [Open Collections 10](#open-collections)
+    -   ##### [Interfaces](#interfaces)
 
--   #### [Definition 10](#definition-1)
+### [Open Collections](#open-collections)
 
--   #### [Introduction and state of the art10](#introduction-and-state-of-the-art-1)
+-   #### [Definition](#definition-1)
 
--   #### [Targets 11](#targets-1)
+-   #### [Introduction and state of the art](#introduction-and-state-of-the-art-1)
 
--   #### [Measures 11](#measures-1)
+-   #### [Targets](#targets-1)
 
-    -   ##### [Digitalisation Strategy 11](#digitalisation-strategy)
+-   #### [Measures](#measures-1)
 
-    -   ##### [Digital Inventory 12](#digital-inventory)
+    -   ##### [Digitalisation Strategy](#digitalisation-strategy)
 
-    -   ##### [2D Digitalisation 12](#d-digitalisation)
+    -   ##### [Digital Inventory](#digital-inventory)
 
-    -   ##### [3D Digitalisation 13](#d-digitalisation-1)
+    -   ##### [2D Digitalisation](#d-digitalisation)
 
-    -   ##### [Digital Twin 13](#digital-twin)
+    -   ##### [3D Digitalisation](#d-digitalisation-1)
 
-### [Open Reproducible Research / Open Source13](#open-reproducible-research-open-source)
+    -   ##### [Digital Twin](#digital-twin)
 
--   #### [Definition 13](#definition-2)
+### [Open Reproducible Research / Open Source](#open-reproducible-research-open-source)
 
--   #### [Introduction and state of the art14](#introduction-and-state-of-the-art-2)
+-   #### [Definition](#definition-2)
 
--   #### [Measures 14](#measures-2)
+-   #### [Introduction and state of the art](#introduction-and-state-of-the-art-2)
 
-    -   ##### [Workshops 14](#workshops)
+-   #### [Measures](#measures-2)
 
-    -   ##### [Standardized project folders 14](#standardized-project-folders)
+    -   ##### [Workshops](#workshops)
 
-    -   ##### [Software development and project-specific GitHub repositories14](#software-development-and-project-specific-github-repositories)
+    -   ##### [Standardized project folders](#standardized-project-folders)
 
-### [Citizen Science 15](#citizen-science)
+    -   ##### [Software development and project-specific GitHub repositories](#software-development-and-project-specific-github-repositories)
 
--   #### [Definition 15](#definition-3)
+### [Citizen Science](#citizen-science)
 
--   #### [Introduction and state of the art15](#introduction-and-state-of-the-art-3)
+-   #### [Definition](#definition-3)
 
--   #### [Targets 15](#targets-2)
+-   #### [Introduction and state of the art](#introduction-and-state-of-the-art-3)
 
--   #### [Measures 16](#measures-3)
+-   #### [Targets](#targets-2)
 
-    -   ##### [Digital Platforms for Citizen Science16](#digital-platforms-for-citizen-science)
+-   #### [Measures](#measures-3)
 
-    -   ##### [Scientific Reflection of Citizen Science16](#scientific-reflection-of-citizen-science)
+    -   ##### [Digital Platforms for Citizen Science](#digital-platforms-for-citizen-science)
 
-### [Open Access 17](#open-access)
+    -   ##### [Scientific Reflection of Citizen Science](#scientific-reflection-of-citizen-science)
 
--   #### [Definition 17](#definition-4)
+### [Open Access](#open-access)
 
--   #### [Introduction and state of the art17](#introduction-and-state-of-the-art-4)
+-   #### [Definition](#definition-4)
 
--   #### [Targets 18](#targets-3)
+-   #### [Introduction and state of the art](#introduction-and-state-of-the-art-4)
 
--   #### [Measures 18](#measures-4)
+-   #### [Targets](#targets-3)
 
-    -   ##### [Library support 19](#library-support)
+-   #### [Measures](#measures-4)
 
-    -   ##### [Implementing DOIs for NHMW publications19](#implementing-dois-for-nhmw-publications)
+    -   ##### [Library support](#library-support)
 
-    -   ##### [OpenAccess Online Magazine "Naturhistorisches"20](#openaccess-online-magazine-naturhistorisches)
+    -   ##### [Implementing DOIs for NHMW publications](#implementing-dois-for-nhmw-publications)
 
-### [Open Innovation 20](#open-innovation)
+    -   ##### [OpenAccess Online Magazine "Naturhistorisches"](#openaccess-online-magazine-naturhistorisches)
 
--   #### [Definition 20](#definition-5)
+### [Open Innovation](#open-innovation)
 
--   #### [Targets 21](#targets-4)
+-   #### [Definition](#definition-5)
 
--   #### [Measures 22](#measures-5)
+-   #### [Targets](#targets-4)
 
-    -   ##### [Training 22](#training)
+-   #### [Measures](#measures-5)
 
-    -   ##### [Data Stewards and Vocabulary Groups22](#data-stewards-and-vocabulary-groups)
+    -   ##### [Training](#training)
 
-    -   ##### [Ethics/Advisory Board 22](#ethicsadvisory-board)
+    -   ##### [Data Stewards and Vocabulary Groups](#data-stewards-and-vocabulary-groups)
 
-### [Networks and projects 23](#networks-and-projects)
+    -   ##### [Ethics/Advisory Board](#ethicsadvisory-board)
 
--   #### [Projects and networks directly targeting the implementation of the Open Science Strategy23](#projects-and-networks-directly-targeting-the-implementation-of-the-open-science-strategy)
+### [Networks and projects](#networks-and-projects)
 
-    -   ##### [European Science Cloud (EOSC) 23](#european-science-cloud-eosc)
+-   #### [Projects and networks directly targeting the implementation of the Open Science Strategy](#projects-and-networks-directly-targeting-the-implementation-of-the-open-science-strategy)
 
-    -   ##### [EOSC Support Office Austria - EOSC - SOA23](#eosc-support-office-austria---eosc---soa)
+    -   ##### [European Science Cloud (EOSC)](#european-science-cloud-eosc)
 
-    -   ##### [EOSC Focus 23](#eosc-focus)
+    -   ##### [EOSC Support Office Austria - EOSC - SOA](#eosc-support-office-austria---eosc---soa)
 
-    -   ##### [Skills4EOSC 23](#skills4eosc)
+    -   ##### [EOSC Focus](#eosc-focus)
 
-    -   ##### [DiSSCo-Prepare 24](#dissco-prepare)
+    -   ##### [Skills4EOSC](#skills4eosc)
 
-    -   ##### [Open Scientific Collections Austria (OSCA)24](#open-scientific-collections-austria-osca)
+    -   ##### [DiSSCo-Prepare](#dissco-prepare)
 
-    -   ##### [GBIF-AT 24](#gbif-at)
+    -   ##### [Open Scientific Collections Austria (OSCA)](#open-scientific-collections-austria-osca)
 
-    -   ##### [JACQ 24](#jacq)
+    -   ##### [GBIF-AT](#gbif-at)
 
-    -   ##### [Thanados 25](#thanados)
+    -   ##### [JACQ](#jacq)
 
-    -   ##### [FAIRiCUBE 25](#fairicube)
+    -   ##### [THANADOS](#thanados)
 
--   #### [Projects with added value to implement the Open Science Strategy25](#projects-with-added-value-to-implement-the-open-science-strategy)
+    -   ##### [FAIRiCUBE](#fairicube)
 
-### [Acknowledgements 1](#acknowledgements)
+-   #### [Projects with added value to implement the Open Science Strategy](#projects-with-added-value-to-implement-the-open-science-strategy)
 
-# 
+### [Acknowledgements](#acknowledgements)
+
+---
 
 # Summary
 
@@ -182,7 +217,7 @@ participation leading to deeper understanding and greater acceptance of
 science by larger parts of the society. Also the quality and excellence
 of science will increase when data and information of different origins
 and disciplines are linked and transparency of processes and data is
-enhanced. Science is currently facing a "replicability crisis"[^1], as
+enhanced. Science is currently facing a "replicability crisis" [1] , as
 many findings in published studies cannot be reproduced by independent
 experiments. Similarly, analyses of original data are often not
 repeatable due to missing documentation and information about the
@@ -192,7 +227,7 @@ The need to open processes, data, and outcomes was triggered by enormous
 progress in information science and the development of respective
 infrastructures. The European Commission developed in 2015 an Open
 Science strategy[^2] and intends to invest billions of Euro in
-confederated infrastructures such as the European Open Science Cloud[^3](EOSC) and linked projects.
+confederated infrastructures such as the European Open Science Cloud[3] (EOSC) and linked projects.
 
 Open Science is a contested concept in some aspects. It comprises or
 links to related concepts such as Open Innovation, Open Access, Public
