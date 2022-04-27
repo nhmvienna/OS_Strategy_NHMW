@@ -1,8 +1,9 @@
 # Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW) 
+
 ## - the benefits of openness
+
 >Version 1.0 (2022-04-27)
 
----
 
 **Authors:** 
 *Vohland, Katrin
@@ -40,12 +41,12 @@ Schwentner, Martin
 Zimmermann, Eva
 ;*
 
+
 Naturhistorisches Museum Wien  
 Burgring 7  
 1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
 
----
 
 # Table of Contents
 ### [Summary](#summary)
@@ -279,9 +280,9 @@ Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics.
 </a>
 </p>
 
-Figure 1: This graphic hints to the claim that data not only have to be FAIR,
-but also acknowledge historical burdens and power imbalances[^7]. 
-Source: Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous
+>Figure 1: This graphic hints to the claim that data not only have to be FAIR,
+but also acknowledge historical burdens and power imbalances[^7].   
+>Source: Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous
 Data Alliance. GIDA-global.org[^8]
 
 
