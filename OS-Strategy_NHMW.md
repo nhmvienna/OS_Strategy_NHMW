@@ -65,6 +65,7 @@ Please cite this document as follows:
 > Museum Wien (NHMW) - the benefits of openness. Version 1.0 (2022-04-27)
 > Naturhistorisches Museum Wien (Vienna 2022) https://doi.org/doitocome*
 
+[Download citation as BibTex](citation/vohland2022.BIB)
 <br>
 
 # Table of Contents
