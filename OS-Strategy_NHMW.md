@@ -93,7 +93,7 @@ Please cite this document as follows:
     * [**2D Digitalisation**](#2d-digitalisation)
     * [**3D Digitalisation**](#3d-digitalisation)
     * [**Digital Twin**](#digital-twin)
-* [**Open Reproducible Research / Open Source**](#open-reproducible-research-open-source)
+* [**Open Reproducible Research / Open Source**](#open-reproducible-research--open-source)
   * [**Definition**](#definition-2)
   * [**Introduction and state of the art**](#introduction-and-state-of-the-art-2)
   * [**Measures**](#measures-2)
