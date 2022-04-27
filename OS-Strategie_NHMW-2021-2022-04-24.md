@@ -278,6 +278,7 @@ Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics.
 <img src="https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+CARE.png" alt="fair_care" height="250">
 </a>
 </p>
+
 Figure 1: This graphic hints to the claim that data not only have to be FAIR,
 but also acknowledge historical burdens and power imbalances[^7]. 
 Source: Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous
