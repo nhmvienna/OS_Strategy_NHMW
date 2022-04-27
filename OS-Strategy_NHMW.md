@@ -55,6 +55,7 @@ Burgring 7
 <br>
 Please cite this document as follows:
 <br>
+<br>
 
 > *Vohland, Katrin; Eichert, Stefan; Fiedler, Sarah;
 > Kapun, Martin; Kroh, Andreas; Mehu-Blantar, Ines; 
@@ -64,7 +65,7 @@ Please cite this document as follows:
 > Museum Wien (NHMW) - the benefits of openness. Version 1.0 (2022-04-27)
 > Naturhistorisches Museum Wien (Vienna 2022) https://doi.org/doitocome*
 
-
+<br>
 
 # Table of Contents
 ### [Summary](#summary)
