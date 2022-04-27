@@ -1183,7 +1183,7 @@ Institute developed portal [JACQ](https://www.jacq.org/)[^38]
 aims to jointly administer the herbaria of different organisations in
 Europe.
 
-### Thanados
+### THANADOS
 
 The portal [THANADOS](https://thanados.net/)[^39], developed at
 the NHMW, offers access to open data around archeological burials in
