@@ -8,40 +8,30 @@
 [![date](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
 
 #### **Authors:** 
-*Vohland, Katrin
-<a href="https://orcid.org/0000-0002-7214-7015">
-<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+*<a href="https://orcid.org/0000-0002-7214-7015">
+Vohland, Katrin <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
 </a>;
-Eichert, Stefan 
 <a href="https://orcid.org/0000-0002-5827-0797">
-<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+Eichert, Stefan <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
 </a>;
-Fiedler, Sarah
-;
-Kapun, Martin
+Fiedler, Sarah;
 <a href="https://orcid.org/0000-0002-3810-0504">
-<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+Kapun, Martin <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
 </a>;
-Kroh, Andreas
 <a href="https://orcid.org/0000-0002-8566-8848">
-<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+Kroh, Andreas <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
 </a>;
-Mehu-Blantar, Ines
 <a href="https://orcid.org/0000-0003-0564-4617">
-<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+Mehu-Blantar, Ines <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
 </a>;
-Ott, Iris
-;
-Rainer, Heimo
+Ott, Iris;
 <a href="https://orcid.org/0000-0002-5963-349X">
-<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+Rainer, Heimo <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
 </a>;
-Schwentner, Martin
 <a href="https://orcid.org/0000-0002-1373-456X">
-<img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
+Schwentner, Martin <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
 </a>;
-Zimmermann, Eva
-;*
+Zimmermann, Eva;*
 
 
 <br>
