@@ -395,7 +395,7 @@ digital representations which also change and adapt in real time.
 
 ## Introduction and state of the art
 
-At the government level, the \\"policy\\" that information and content
+At the government level, the "policy" that information and content
 generated from public funds (e.g., research grants, via government
 research institutions, universities, etc.) must be made publicly
 available - at least in the medium term - has become increasingly
@@ -424,7 +424,7 @@ With regard to Open Data and Open Content we want to achieve that our
 data follow as much as possible FAIR and CARE principles, are based on
 respective standards, and are also able to provide digital data and
 objects as open content to the public. Specifically for digitzed
-objects, see also the section [\[Open Collections\]{.ul}](#_3cvnlw6c79lw),
+objects, see also the section [Open Collections](#open-collections),
 
 ## Measures
 
@@ -665,14 +665,15 @@ the software quality.
 At the NHM, we are committed to open reproducible research. We are
 aiming at
 
-1)  developing strategies to improve standardization of research
+1) developing strategies to improve standardization of research
     documentation.
 
-2)  generating awareness for transparent and open digital research
+2) generating awareness for transparent and open digital research
     documentation in the form of workshops and training sessions.
 
-3)  using shared open lab notebooks in the form of project-specific
-    [GitHub repositories](https://nhmvienna.github.io/)[^18].
+3) using shared open lab notebooks in the form of project-specific
+    [GitHub repositories](https://nhmvienna.github.io/)
+[^18].
 
 ## Measures
 
@@ -687,7 +688,8 @@ in-line documentation.
 ### Workshops
 
 We have implemented a new [**seminar
-series**](https://nhmvienna.github.io/SeminarSeries/)[^19], which
+series**](https://nhmvienna.github.io/SeminarSeries/)
+[^19], which
 represents a mix of research seminars, journal clubs and bioinformatic
 workshops. Specifically the hands-on workshops will facilitate practical
 training and help to raise awareness for the importance of standardized
