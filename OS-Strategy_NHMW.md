@@ -74,7 +74,7 @@ Please cite this document as follows:
   * [**What are key conflicts of interests?**](#what-are-key-conflicts-of-interests)
   * [**Why an Open Science strategy for the NHMW?**](#why-an-open-science-strategy-for-the-nhmw)
 * [**Open Science Terminology - Definitions**](#open-science-terminology---definitions)
-* [**Open Data / Open Content**](#open-data-/-open-content)
+* [**Open Data / Open Content**](#open-data--open-content)
   * [**Definition**](#definition)
   * [**Introduction and state of the art**](#introduction-and-state-of-the-art)
   * [**Targets**](#targets)
