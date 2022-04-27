@@ -139,7 +139,7 @@ Please cite this document as follows:
 
 ---
 
-# **Summary**
+# Summary
 
 In this document the NHMW rolls out in which areas the museum already
 contributes and can contribute to implement Open Science in its
@@ -320,7 +320,7 @@ addressed, along the focus on the museum (Figure 2).
 
 ><sub>*Figure 2: A terminology landscape centering the museum (own graphic, Martin Kapun [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).)*</sub>
 
-# Open Data / Open Content
+# Open Data - Open Content
 
 ## Definition
 
