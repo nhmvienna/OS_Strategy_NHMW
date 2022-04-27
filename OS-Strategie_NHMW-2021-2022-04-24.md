@@ -287,9 +287,9 @@ Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics.
 </p>
 
 ><sub>*Figure 1: This graphic hints to the claim that data not only have to be FAIR,
-but also acknowledge historical burdens and power imbalances[^7].   
->Source: Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous
-Data Alliance. GIDA-global.org[^8]*</sub>
+but also acknowledge historical burdens and power imbalances[^7][^8].   
+>Image Source: Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous
+Data Alliance. [GIDA-global.org](https://www.gida-global.org/care)*</sub>
 
 
 The information provided in our collections can be used in a variety of
@@ -366,8 +366,13 @@ in place. For the intention of this paper we define the terms as we
 understand them in our context for each of the different sessions
 addressed, along the focus on the museum (Figure 2).
 
-![](media/image2.png){width="6.270138888888889in"
-height="3.745138888888889in"}
+<p align="center">
+
+<img src="assets/fig2.png" alt="fair_care">
+
+</p>
+
+><sub>*Figure 2: A terminology landscape centering the museum (own graphic, Martin Kapun [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).[^8]*</sub>
 
 Figure 2: A terminology landscape centering the museum (own graphic, cc
 by Martin Kapun).
@@ -1224,7 +1229,9 @@ World. http://ec.europa.eu/research/openscience/index.cfm
 
 [^6]: https://www.go-fair.org/fair-principles/
 
-[^7]: https://www.gida-global.org/care
+[^7]: Research Data Alliance International Indigenous Data Sovereignty
+Interest Group. (September 2019). “CARE Principles for Indigenous Data
+Governance.” The Global Indigenous Data Alliance. GIDA-global.org
 
 [^8]: https://www.gida-global.org/care
 
