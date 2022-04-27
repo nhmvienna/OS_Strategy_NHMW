@@ -217,7 +217,7 @@ participation leading to deeper understanding and greater acceptance of
 science by larger parts of the society. Also the quality and excellence
 of science will increase when data and information of different origins
 and disciplines are linked and transparency of processes and data is
-enhanced. Science is currently facing a "replicability crisis" [1] , as
+enhanced. Science is currently facing a "replicability crisis"[^1] , as
 many findings in published studies cannot be reproduced by independent
 experiments. Similarly, analyses of original data are often not
 repeatable due to missing documentation and information about the
@@ -1198,13 +1198,10 @@ various aspects and discussed with us the strategy at a specific
 workshop in April 2022. We also thank our Scientific Advisory Board for
 seconding our strategy and giving valueable hints.
 
-[^1]&#x3A; See also: Fanelli, D. (2018). \\"Is science reallyfacing ar
-    eproducibility crisis, and do we need it to?\\" PNAS 115(11):
-    2628--2631.
+[^1]: See also: Fanelli, D. (2018). "Is science really facing a reproducibility crisis, and do we need it to?" PNAS 115(11): 2628--2631.
 
-[^2]&#x3A; Moedas, C. (2015). Open Innovation, Open Science, Open to the
-    World.
-    [\[http://ec.europa.eu/research/openscience/index.cfm\]{.ul}](http://ec.europa.eu/research/openscience/index.cfm)
+[2]: Moedas, C. (2015). Open Innovation, Open Science, Open to the
+    World. http://ec.europa.eu/research/openscience/index.cfm
 
 [^3]: https://eosc-portal.eu/
 
