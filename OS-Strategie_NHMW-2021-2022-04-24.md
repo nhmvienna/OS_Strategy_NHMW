@@ -227,7 +227,7 @@ The need to open processes, data, and outcomes was triggered by enormous
 progress in information science and the development of respective
 infrastructures. The European Commission developed in 2015 an Open
 Science strategy[^2] and intends to invest billions of Euro in
-confederated infrastructures such as the European Open Science Cloud[3] (EOSC) and linked projects.
+confederated infrastructures such as the European Open Science Cloud[^3] (EOSC) and linked projects.
 
 Open Science is a contested concept in some aspects. It comprises or
 links to related concepts such as Open Innovation, Open Access, Public
@@ -1198,90 +1198,90 @@ various aspects and discussed with us the strategy at a specific
 workshop in April 2022. We also thank our Scientific Advisory Board for
 seconding our strategy and giving valueable hints.
 
-[^1]: See also: Fanelli, D. (2018). "Is science really facing a reproducibility crisis, and do we need it to?" PNAS 115(11): 2628--2631.
+[^1] See also: Fanelli, D. (2018). "Is science really facing a 
+reproducibility crisis, and do we need it to?" PNAS 115(11): 2628--2631.
 
-[2]: Moedas, C. (2015). Open Innovation, Open Science, Open to the
-    World. http://ec.europa.eu/research/openscience/index.cfm
+[^2] Moedas, C. (2015). Open Innovation, Open Science, Open to the 
+World. http://ec.europa.eu/research/openscience/index.cfm
 
-[^3]: https://eosc-portal.eu/
+[^3] https://eosc-portal.eu/
 
-[^4]&#x3A; [\[https://tatup.de/index.php/tatup/article/view/21\]{.ul}](https://tatup.de/index.php/tatup/article/view/21)
+[^4] https://tatup.de/index.php/tatup/article/view/21
 
-[^5]&#x3A; [\[https://www.nhm-wien.ac.at/en/mission_statement\]{.ul}](https://www.nhm-wien.ac.at/en/mission_statement)
+[^5] https://www.nhm-wien.ac.at/en/mission_statement
 
-[^6]: https://www.go-fair.org/fair-principles/
+[^6] https://www.go-fair.org/fair-principles/
 
-[^7]: https://www.gida-global.org/care
+[^7] https://www.gida-global.org/care
 
-[^8]: https://research-hub.auckland.ac.nz/guide-to-managing-research-data/ethics-integrity-and-compliance/the-fair-and-care-principles-for-research-data
+[^8] https://research-hub.auckland.ac.nz/guide-to-managing-research-data/ethics-integrity-and-compliance/the-fair-and-care-principles-for-research-data
 
-[^9]: https://ec.europa.eu
+[^9] https://ec.europa.eu
 
-[^10]: https://rri-tools.eu/
+[^10] https://rri-tools.eu/
 
-[^11]: https://www.ncbi.nlm.nih.gov/genbank/
+[^11] https://www.ncbi.nlm.nih.gov/genbank/
 
-[^12]&#x3A; [\[https://www.data.gv.at/\]{.ul}](https://www.data.gv.at/)
+[^12] https://www.data.gv.at/
 
-[^13]: https://www.go-fair.org/fair-principles/
+[^13] https://www.go-fair.org/fair-principles/
 
-[^14]: https://www.dissco.eu/
+[^14] https://www.dissco.eu/
 
-[^15]: https://osca.science/
+[^15] https://osca.science/
 
-[^16]&#x3A; [\[https://sketchfab.com/\]{.ul}](https://sketchfab.com/)
+[^16] https://sketchfab.com/
 
-[^17]&#x3A; [\[https://www.nhm-wien.ac.at/en/research/central_research_laboratories/micro-ct\]{.ul}](https://www.nhm-wien.ac.at/en/research/central_research_laboratories/micro-ct)
+[^17] https://www.nhm-wien.ac.at/en/research/central_research_laboratories/micro-ct
 
-[^18]&#x3A; The NHMW has an own GITHUB account:
-    <https://nhmvienna.github.io/>
+[^18] The NHMW has an own GITHUB account: https://nhmvienna.github.io
 
-[^19]: https://nhmvienna.github.io/SeminarSeries/
+[^19] https://nhmvienna.github.io/SeminarSeries/
 
-[^20]&#x3A; [\[https://github.com/nhmvienna\]{.ul}](https://github.com/nhmvienna)
+[^20] https://github.com/nhmvienna
 
-[^21]&#x3A; [\[https://link.springer.com/book/10.1007/978-3-030-58278-4\]{.ul}](https://link.springer.com/book/10.1007/978-3-030-58278-4)
+[^21] https://link.springer.com/book/10.1007/978-3-030-58278-4
 
-[^22]&#x3A; [\[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3511088\]{.ul}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3511088)
+[^22] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3511088
 
-[^23]&#x3A; [\[https://nhm-wien.ac.at/jart/prj3/nhm/releases/de/upload/cs_strategie_screen.pdf\]{.ul}](https://nhm-wien.ac.at/jart/prj3/nhm/releases/de/upload/cs_strategie_screen.pdf)
+[^23] https://nhm-wien.ac.at/jart/prj3/nhm/releases/de/upload/cs_strategie_screen.pdf
 
-[^24]: https://www.nhm-wien.ac.at/forschung/mitmachen
+[^24] https://www.nhm-wien.ac.at/forschung/mitmachen
 
-[^25]: https://www.citizen-science.at/
+[^25] https://www.citizen-science.at/
 
-[^26]: https://eu-citizen.science/projects
+[^26] https://eu-citizen.science/projects
 
-[^27]: https://www.nhm-wien.ac.at/en/deck50
+[^27] https://www.nhm-wien.ac.at/en/deck50
 
-[^28]&#x3A; [\[https://www.budapestopenaccessinitiative.org/read\]{.ul}](https://www.budapestopenaccessinitiative.org/read)
+[^28] https://www.budapestopenaccessinitiative.org/read
 
-[^29]&#x3A; [\[https://creativecommons.org/\]{.ul}](https://creativecommons.org/)
+[^29] https://creativecommons.org/
 
-[^30]&#x3A; [\[http://www.go-fair.org/fair-principles/\]{.ul}](http://www.go-fair.org/fair-principles/)
+[^30] http://www.go-fair.org/fair-principles/
 
-[^31]&#x3A; Open Innovation Strategie für Österreich, bmwfw, 2016.
+[^31] Open Innovation Strategie für Österreich, bmwfw, 2016.
 
-[^32]&#x3A; Martha Fleming, Open Minds -- Open Doors, In: Museums - Social
-    Learning Spaces and Knowledge Producing Processes, Kulturstyrelsen
-    \-- Danish Agency for Culture, 2013, p_148ff._
+[^32] Martha Fleming, Open Minds -- Open Doors, In: Museums - 
+Social Learning Spaces and Knowledge Producing Processes, 
+Kulturstyrelsen \ Danish Agency for Culture, 2013, p 148ff.
 
-[^33]: https://eosc-portal.eu/
+[^33] https://eosc-portal.eu/
 
-[^34]&#x3A; [\[https://journals.univie.ac.at/index.php/voebm/article/view/6270\]{.ul}](https://journals.univie.ac.at/index.php/voebm/article/view/6270)
+[^34] https://journals.univie.ac.at/index.php/voebm/article/view/6270
 
-[^35]&#x3A; [\[https://www.dissco.eu/dissco-ppp/\]{.ul}](https://www.dissco.eu/dissco-ppp/)
+[^35] https://www.dissco.eu/dissco-ppp/
 
-[^36]: www.osca.science
+[^36] https://www.osca.science
 
-[^37]&#x3A; [\[https://www.gbif.at/home/\]{.ul}](https://www.gbif.at/home/)
+[^37] https://www.gbif.at/home/
 
-[^38]&#x3A; [\[https://www.jacq.org/\]{.ul}](https://www.jacq.org/)
+[^38] https://www.jacq.org/
 
-[^39]&#x3A; [\[https://thanados.net/\]{.ul}](https://thanados.net/)
+[^39] https://thanados.net/
 
-[^40]&#x3A; [\[https://www.timemachine.eu/\]{.ul}](https://www.timemachine.eu/)
+[^40] https://www.timemachine.eu/
 
-[^41]&#x3A; [\[https://ariadne-infrastructure.eu/\]{.ul}](https://ariadne-infrastructure.eu/)
+[^41] https://ariadne-infrastructure.eu/
 
-[^42]: https://www.abol.ac.at/
+[^42] https://www.abol.ac.at/
