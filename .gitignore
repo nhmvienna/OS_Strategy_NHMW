@@ -1,0 +1,9 @@
+
+# sensitive data (except example files)
+
+
+# cache
+.cache
+
+# ide
+.idea
