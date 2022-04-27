@@ -1,6 +1,6 @@
-# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW)
+# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW) 
 ## - the benefits of openness
-Version 1.0 (2022-04-27)
+>Version 1.0 (2022-04-27)
 
 ---
 
@@ -273,12 +273,20 @@ consciousness for historical burdens and imbalances especially with
 respect to indigenous communities. CARE stands for **C**ollective
 Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics.
 
-![https://images.ctfassets.net/vbuxn5csp0ik/2hQxPdQ5m0ezjjQ7jJibHw/3545283a16312f6b9fbdc8e4ec7e1367/FAIR-CARE-principles.png](media/image1.png){width="1.688976377952756in"
-height="0.9330708661417323in"}
+<figure align="center">
+<a href="https://www.gida-global.org/care" target="_blank">
+<img src="https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+CARE.png" alt="fair_care" height="250">
+</a>
+</figure>
+<small><i> Figure 1: This graphic hints to the claim that data not only have to be FAIR,
+but also acknowledge historical burdens and power imbalances[^7]. 
+Source: Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous
+Data Alliance. GIDA-global.org[^8] </i></small>
 
-Figure 1: This graphc hints to the claim that data have only to be FAIR,
-but also acknowleged historical burdens and power imbalances[^7]. CC ??
-Research Hub, New Zealand[^8]
+Figure 1: This graphic hints to the claim that data not only have to be FAIR,
+but also acknowledge historical burdens and power imbalances[^7]. 
+Source: Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous
+Data Alliance. GIDA-global.org[^8]
 
 The information provided in our collections can be used in a variety of
 disciplinary, interdisciplinary, and transdisciplinary research
@@ -1214,7 +1222,7 @@ World. http://ec.europa.eu/research/openscience/index.cfm
 
 [^7]: https://www.gida-global.org/care
 
-[^8]: https://research-hub.auckland.ac.nz/guide-to-managing-research-data/ethics-integrity-and-compliance/the-fair-and-care-principles-for-research-data
+[^8]: https://www.gida-global.org/care
 
 [^9]: https://ec.europa.eu
 
