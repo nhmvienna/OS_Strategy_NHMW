@@ -41,15 +41,6 @@ Zimmermann, Eva
 
 <br>
 
-
-
-[![nhmw logo](assets/logo.svg)](https://nhm-wien.ac.at)
-
-Burgring 7  
-1010 Wien  
-[https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
-
-
 ![version](https://img.shields.io/badge/version-1.0-blue)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 ![date](https://img.shields.io/badge/date-2002--04--27-green)
@@ -68,6 +59,19 @@ Please cite this document as follows:
 
 [![BibTex](https://img.shields.io/badge/Cite-BibTex-lightgrey)](citations/vohland2022.BIB)
 <br>
+<br>
+<br>
+
+
+
+
+[![nhmw logo](assets/logo.svg)](https://nhm-wien.ac.at)
+
+Burgring 7  
+1010 Wien  
+[https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
+
+
 
 # Table of Contents
 * [**Summary**](#summary)
