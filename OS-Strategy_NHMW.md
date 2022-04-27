@@ -221,7 +221,7 @@ and opening not only means providing a collection of photos or digital
 lists of species but increased **F**indability, **A**ccessibility,
 **I**nteroperability, and **R**e-usability as described by the **FAIR**
 principles[^6]. In addition, we will also consider the
-**CARE**-principles^7^, which are developed unter an increasing
+**CARE**-principles[^7], which are developed unter an increasing
 consciousness for historical burdens and imbalances especially with
 respect to indigenous communities. CARE stands for **C**ollective
 Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics.
@@ -233,7 +233,7 @@ Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics.
 </p>
 
 ><sub>*Figure 1: This graphic hints to the claim that data not only have to be FAIR,
-but also acknowledge historical burdens and power imbalances[^7][^8].   
+but also acknowledge historical burdens and power imbalances[^8].   
 >Image Source: Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). “CARE Principles for Indigenous Data Governance.” The Global Indigenous
 Data Alliance. [GIDA-global.org](https://www.gida-global.org/care)*</sub>
 
