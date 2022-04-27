@@ -424,7 +424,7 @@ With regard to Open Data and Open Content we want to achieve that our
 data follow as much as possible FAIR and CARE principles, are based on
 respective standards, and are also able to provide digital data and
 objects as open content to the public. Specifically for digitzed
-objects, see also the section [Open Collections](#open-collections),
+objects, see also the section [Open Collections](#open-collections).
 
 ## Measures
 
