@@ -1,4 +1,4 @@
-# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW) <br> *- the benefits of openness*
+# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW) <br><br> *- the benefits of openness*
 
 <br>  
 
