@@ -715,7 +715,7 @@ the NHMW will play an important role and will further increase in the
 near future. We are fully committed to open source and in order to
 increase the impact and visibility of our software, we make all of our
 code available as open source via public repositories on our official
-[\[NHMW GitHub account\]{.ul}](https://github.com/nhmvienna)[^20].
+[NHMW GitHub account](https://github.com/nhmvienna)[^20].
 
 This further facilitates publishing the software in accompanying journal
 articles and to regularly maintain and update the code.
@@ -766,8 +766,7 @@ manuscripts of expeditions and other scientific endeavors.
 
 ### Digital Platforms for Citizen Science
 
-A [digital
-platform](https://www.nhm-wien.ac.at/forschung/mitmachen)[^24] to
+A [digital platform](https://www.nhm-wien.ac.at/forschung/mitmachen)[^24] to
 showcase projects in which members of the public can engage and
 contribute to science or collection management has already been launched
 on the NHMW homepage. The NHMW is also represented at the Austrian
@@ -789,8 +788,8 @@ outside the institution should be invited to pose questions to the
 museum\\'s collected data, which in turn should be integrated into the
 (internal) scientific discourse when relevant questions arise. Through
 these interactions and participation with museum visitors, e.g. in the
-form of entered data from the [Deck
-50](https://www.nhm-wien.ac.at/en/deck50)[^27], a bidirectional
+form of entered data from the 
+[Deck 50](https://www.nhm-wien.ac.at/en/deck50)[^27], a bidirectional
 knowledge flow between science and society can be achieved.
 
 ### Scientific Reflection of Citizen Science
@@ -819,16 +818,16 @@ The **Budapest Open Access** **Initiative** defines Open Access as
 follows:
 
 > _"By 'open access' to this literature, we mean its free availability
-> on the public internet, permitting any users to read, download, copy,
-> distribute, print, search, or link to the full texts of these
-> articles, crawl them for indexing, pass them as data to software, or
-> use them for any other lawful purpose, without financial, legal, or
-> technical barriers other than those inseparable from gaining access to
-> the internet itself. The only constraint on reproduction and
-> distribution, and the only role for copyright in this domain, should
-> be to give authors control over the integrity of their work and the
-> right to be properly acknowledged and cited."_ (Budapest Open Access
-> Initiative, 2002[^28])
+on the public internet, permitting any users to read, download, copy,
+distribute, print, search, or link to the full texts of these
+articles, crawl them for indexing, pass them as data to software, or
+use them for any other lawful purpose, without financial, legal, or
+technical barriers other than those inseparable from gaining access to
+the internet itself. The only constraint on reproduction and
+distribution, and the only role for copyright in this domain, should
+be to give authors control over the integrity of their work and the
+right to be properly acknowledged and cited."_ (Budapest Open Access
+Initiative, 2002)[^28]
 
 However, Open Access is much more than access to the publication text
 alone. Correct licensing (e.g. with Creative Commons license
@@ -866,12 +865,19 @@ which has an open access policy and matching funding for research
 resulting from FWF-funded projects. Complemented partially by financial
 support of the research departments.
 
-![](media/image3.png){width="6.270138888888889in"
-height="2.9145833333333333in"}
+<p align="center">
 
-Figure 3: Publications of the NHM Vienna in 2021 classified into impact
+<img src="assets/fig3.png" alt="fair_care">
+
+</p>
+
+><sub>*Figure 3: Publications of the NHM Vienna in 2021 classified into impact
 factor, peer reviewed, and open access publications (left panel) and
-according to their type (right panel). Graphics: Andreas Kroh, NHMW.
+according to their type (right panel). Graphics: Andreas Kroh, NHMW. 
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*</sub>
+
+
+
 
 Summing up, Open Access lowers barriers for access to research results
 and thus improves the visibility of the scientists' research results,
@@ -1138,7 +1144,7 @@ collections. The project will start in September 2022.
 
 This European project aims to prepare the establishment of a Distributed
 System of Research Collections
-([\[DiSSCo\]{.ul}](https://www.dissco.eu/dissco-ppp/)[^35]) as research
+([DiSSCo](https://www.dissco.eu/dissco-ppp/)[^35]) as research
 infrastructure in order to facilitate access and use of scientific
 collections. Key partners are the European Natural History Museums. With
 two Person Months (PMs) the NHMW currently cannot really contribute but
@@ -1149,7 +1155,7 @@ Austria.
 ### Open Scientific Collections Austria (OSCA)
 
 Based upon a group of research collections in Austria being interested
-in DiSSCo, the [\[OSCA\]{.ul}](http://www.osca.science)[^36] Consortia
+in DiSSCo, the [OSCA](https://www.osca.science/)[^36] Consortia
 formed in order to enhance synergies between the institutions with
 respect to the digitalisation of the scientific collections. The BMKOES
 supports this process financially. Key targets of the three-year-period
@@ -1165,25 +1171,24 @@ and portal providing access to biodiversity data from collections,
 monitoring programmes, and faunistic assessments from academia as well
 as from citizen science. Austria - as other countries - support the
 network financially. The coordination of
-[\[GBIF-AT\]{.ul}](https://www.gbif.at/home/)[^37] has the
+[GBIF-AT](https://www.gbif.at/home/)[^37] has the
 Umweltbundesamt. The NHMW contributed data from the botanical and bird
 collections.
 
 ### JACQ
 
 The jointly at the NHMW and the University of Vienna, Botanical
-Institute developed portal [\[JACQ\]{.ul}](https://www.jacq.org/)[^38]
+Institute developed portal [JACQ](https://www.jacq.org/)[^38]
 aims to jointly administer the herbaria of different organisations in
 Europe.
 
 ### Thanados
 
-The portal [\[THANADOS\]{.ul}](https://thanados.net/)[^39], developed at
+The portal [THANADOS](https://thanados.net/)[^39], developed at
 the NHMW, offers access to open data around archeological burials in
-central Europe. It will be one of the first contributions to the
-European initiative [\[Time
-Machine\]{.ul}](https://www.timemachine.eu/)[^40] and is also aggregated
-by [\[ARIADNEplus\]{.ul}](https://ariadne-infrastructure.eu/)[^41].
+central Europe. It is one of the first contributions to the
+European initiative [Time Machine](https://www.timemachine.eu/)[^40] 
+and is also aggregated by [ARIADNEplus](https://ariadne-infrastructure.eu/)[^41].
 
 ### FAIRiCUBE
 
@@ -1198,7 +1203,8 @@ based on its collection and research data.
 
 At the NHMW there are already many projects which support the
 implementation of Open Science (cf table), some of them, such as
-[ABOL](https://www.abol.ac.at/)[^42](<Austrian Barcode of Life>) where
+[ABOL](https://www.abol.ac.at/)[^42]
+(Austrian Barcode of Life) where
 the NHM coordinated the Austrian activities, link open genetic data,
 open collection data, and open distribution data in order to give
 insights in functional biodiversity, or biodiversity change.
