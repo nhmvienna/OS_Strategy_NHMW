@@ -44,7 +44,10 @@ Zimmermann, Eva
 
 <br>
 
-Naturhistorisches Museum Wien  
+
+
+[![nhmw logo](assets/logo.svg)](https://nhm-wien.ac.at)
+
 Burgring 7  
 1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
