@@ -1,7 +1,11 @@
 # Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW) <br><br> *- the benefits of openness*
 
-<br>
-<br>
+
+
+![version](https://img.shields.io/badge/version-1.0-blue)
+[![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
+![date](https://img.shields.io/badge/date-2002--04--27-green)
+[![date](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
 
 #### **Authors:** 
 *Vohland, Katrin
@@ -39,12 +43,7 @@ Schwentner, Martin
 Zimmermann, Eva
 ;*
 
-<br>
 
-![version](https://img.shields.io/badge/version-1.0-blue)
-[![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
-![date](https://img.shields.io/badge/date-2002--04--27-green)
-<br>
 <br>
 Please cite this document as follows:
 <br>
