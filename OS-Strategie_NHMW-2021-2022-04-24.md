@@ -832,7 +832,7 @@ Initiative, 2002)[^28]
 However, Open Access is much more than access to the publication text
 alone. Correct licensing (e.g. with Creative Commons license
 models[^29]) is essential to allow the re-use of results, data and
-texts. 
+texts.  
 In addition, the FAIR criteria (findable, accessible,
 interoperable, reusable)[^30] provide, among other things, for the
 interoperability of research results. In relation to scientific
