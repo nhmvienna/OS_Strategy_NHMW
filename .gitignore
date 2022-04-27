@@ -1,5 +1,6 @@
 
-# sensitive data (except example files)
+# tempfiles
+.docx#
 
 
 # cache
