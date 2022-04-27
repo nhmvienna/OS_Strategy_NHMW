@@ -1,11 +1,12 @@
-# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW) 
+# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW) <br> *- the benefits of openness*
 
-## - the benefits of openness
+<br>  
 
 >Version 1.0 (2022-04-27)
 
+<br>
 
-**Authors:** 
+#### **Authors:** 
 *Vohland, Katrin
 <a href="https://orcid.org/0000-0002-7214-7015">
 <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" />
@@ -41,12 +42,14 @@ Schwentner, Martin
 Zimmermann, Eva
 ;*
 
+<br>
 
 Naturhistorisches Museum Wien  
 Burgring 7  
 1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
 
+---
 
 # Table of Contents
 ### [Summary](#summary)
