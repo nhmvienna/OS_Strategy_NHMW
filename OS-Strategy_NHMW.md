@@ -55,6 +55,7 @@ Burgring 7
 <br>
 Please cite this document as follows:
 <br>
+
 > *Vohland, Katrin; Eichert, Stefan; Fiedler, Sarah;
 > Kapun, Martin; Kroh, Andreas; Mehu-Blantar, Ines; 
 > Ott, Iris ; Rainer, Heimo; Schwentner, Martin;
