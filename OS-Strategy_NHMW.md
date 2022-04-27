@@ -52,6 +52,17 @@ Burgring 7
 1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
 
+<br>
+Please cite this document as follows:
+
+> *Vohland, Katrin; Eichert, Stefan; Fiedler, Sarah;
+> Kapun, Martin; Kroh, Andreas; Mehu-Blantar, Ines; 
+> Ott, Iris ; Rainer, Heimo; Schwentner, Martin;
+> Zimmermann, Eva: 
+> Open Science in Museums - Strategy of the Naturhistorisches 
+> Museum Wien (NHMW) - the benefits of openness. Version 1.0 (2022-04-27)
+> Naturhistorisches Museum Wien (Vienna 2022) https://doi.org/doitocome*
+
 ---
 
 # Table of Contents
