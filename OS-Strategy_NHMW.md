@@ -69,139 +69,72 @@ Please cite this document as follows:
 
 # Table of Contents
 * [**Summary**](#summary)
-
 * [**Introduction**](#introduction)
-
   * [**The vision of opening science in museums**](#the-vision-of-opening-science-in-museums)
-
   * [**What are key conflicts of interests?**](#what-are-key-conflicts-of-interests)
-
   * [**Why an Open Science strategy for the NHMW?**](#why-an-open-science-strategy-for-the-nhmw)
-
 * [**Open Science Terminology - Definitions**](#open-science-terminology---definitions)
-
 * [**Open Data / Open Content**](#open-data-open-content)
-
   * [**Definition**](#definition)
-
   * [**Introduction and state of the art**](#introduction-and-state-of-the-art)
-
   * [**Targets**](#targets)
-
   * [**Measures**](#measures)
-
     * [**FAIR Data**](#_Toc101728776)
-
     * [**Research Data**](#research-data)
-
     * [**Repositories**](#repositories)
-
     * [**Interfaces**](#interfaces)
-
 * [**Open Collections**](#open-collections)
-
   * [**Definition**](#definition-1)
-
   * [**Introduction and state of the art**](#introduction-and-state-of-the-art-1)
-
   * [**Targets**](#targets-1)
-   
   * [**Measures**](#measures-1)
-
     * [**Digitalisation Strategy**](#digitalisation-strategy)
-    
     * [**Digital Inventory**](#digital-inventory)
-    
     * [**2D Digitalisation**](#2d-digitalisation)
-    
     * [**3D Digitalisation**](#3d-digitalisation)
-    
     * [**Digital Twin**](#digital-twin)
-
 * [**Open Reproducible Research / Open Source**](#open-reproducible-research-open-source)
-
   * [**Definition**](#definition-2)
-   
   * [**Introduction and state of the art**](#introduction-and-state-of-the-art-2)
-   
   * [**Measures**](#measures-2)
-
     * [**Workshops**](#workshops)
-    
     * [**Standardized project folders**](#standardized-project-folders)
-    
     * [**Software development and project-specific GitHub repositories**](#software-development-and-project-specific-github-repositories)
-
 * [**Citizen Science**](#citizen-science)
-
   * [**Definition**](#definition-3)
-    
   * [**Introduction and state of the art**](#introduction-and-state-of-the-art-3)
-    
   * [**Targets**](#targets-2)
-    
   * [**Measures**](#measures-3)
-
     * [**Digital Platforms for Citizen Science**](#digital-platforms-for-citizen-science)
-
     * [**Scientific Reflection of Citizen Science**](#scientific-reflection-of-citizen-science)
-
 * [**Open Access**](#open-access)
-
   * [**Definition**](#definition-4)
-   
   * [**Introduction and state of the art**](#introduction-and-state-of-the-art-4)
-   
   * [**Targets**](#targets-3)
-   
   * [**Measures**](#measures-4)
-  
     * [**Library support**](#library-support)
-      
     * [**Implementing DOIs for NHMW publications**](#implementing-dois-for-nhmw-publications)
-     
     * [**OpenAccess Online Magazine "Naturhistorisches"**](#openaccess-online-magazine-naturhistorisches)
-
 * [**Open Innovation**](#open-innovation)
-
   * [**Definition**](#definition-5)
-  
   * [**Targets**](#targets-4)
-  
   * [**Measures**](#measures-5)
-
     * [**Training**](#training)
-    
     * [**Data Stewards and Vocabulary Groups**](#data-stewards-and-vocabulary-groups)
-    
     * [**Ethics/Advisory Board**](#ethicsadvisory-board)
-
 * [**Networks and projects**](#networks-and-projects)
-
   * [**Projects and networks directly targeting the implementation of the Open Science Strategy**](#projects-and-networks-directly-targeting-the-implementation-of-the-open-science-strategy)
-
     * [**European Science Cloud (EOSC)**](#european-science-cloud-eosc)
-    
     * [**EOSC Support Office Austria - EOSC - SOA**](#eosc-support-office-austria---eosc---soa)
-    
     * [**EOSC Focus**](#eosc-focus)
-    
     * [**Skills4EOSC**](#skills4eosc)
-    
     * [**DiSSCo-Prepare**](#dissco-prepare)
-    
     * [**Open Scientific Collections Austria (OSCA)**](#open-scientific-collections-austria-osca)
-    
     * [**GBIF-AT**](#gbif-at)
-    
     * [**JACQ**](#jacq)
-    
     * [**THANADOS**](#thanados)
-    
     * [**FAIRiCUBE**](#fairicube)
-
   * [**Projects with added value to implement the Open Science Strategy**](#projects-with-added-value-to-implement-the-open-science-strategy)
-
 * [**Acknowledgements**](#acknowledgements)
 
 ---
