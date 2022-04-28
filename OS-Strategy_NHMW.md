@@ -50,6 +50,7 @@ Burgring 7
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
 
 ##
+<!--
 
 | Version | Date | DOI |
 |---------|------|-----|
@@ -64,7 +65,7 @@ This work is licensed under a
 ####
 
 \pagebreak
-
+-->
 
 # Table of Contents
 * [**Summary**](#summary)
@@ -138,7 +139,9 @@ This work is licensed under a
 
 ---
 
+<!--
 \pagebreak
+-->
 
 # Summary
 
