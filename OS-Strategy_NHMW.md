@@ -1,15 +1,14 @@
 # Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW): <br><br>  *The benefits of openness*
-
-
-
-<img src="https://img.shields.io/badge/version-1.0-blue"> 
-<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--4.0-brightgreen"></a>
-<img src="https://img.shields.io/badge/date-2022--04--27-green">
-<a href="https://doi.org/doitocome"><img src="https://img.shields.io/badge/doi-20020427-orange"></a>
-
-
 ###
 
+[![version](https://img.shields.io/badge/official_version-1.0-blue)](#)
+[![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
+[![date](https://img.shields.io/badge/date-2022--04--27-green)](#)
+[![date](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
+
+<!--
+###
+-->
 
 
 **Authors:**   
@@ -24,10 +23,12 @@ Ott, Iris;
 [Schwentner, Martin](https://orcid.org/0000-0002-1373-456X) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-1373-456X);
 [Zimmermann, Eva](https://orcid.org/0000-0002-6537-106X) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-6537-106X);*
 
+<!--
 ##
+-->
+<br>
 Please cite this document as follows:
-
-
+<br>
 
 > *Vohland, Katrin; Eichert, Stefan; Fiedler, Sarah;
 > Kapun, Martin; Kroh, Andreas; Mehu-Blantar, Ines; 
@@ -40,8 +41,13 @@ Please cite this document as follows:
 
 
 <a href="citations/vohland2022.BIB"><img src="https://img.shields.io/badge/Cite-BibTex-lightgrey"></a>
+<br>
+<br>
+<br>
 
+<!--
 ##
+-->
 
 [![nhmw logo](assets/logo.svg)](https://nhm-wien.ac.at)
 
