@@ -1,10 +1,10 @@
 
 # tempfiles
 documents/*
-!.docx
-!.pdf
-!.rtf
-!.odt
+!*.docx
+!*.pdf
+!*.rtf
+!*.odt
 
 # cache
 .cache
