@@ -24,7 +24,8 @@ Ott, Iris;
 Rainer, Heimo <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
 <a href="https://orcid.org/0000-0002-1373-456X">
 Schwentner, Martin <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
-Zimmermann, Eva;*
+<a href="https://orcid.org/0000-0002-6537-106X">
+Zimmermann, Eva <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;*
 
 
 <br>
