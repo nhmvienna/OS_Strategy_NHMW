@@ -1,7 +1,7 @@
 # Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW): <br><br>  *The benefits of openness*
 ###
 
-[![version](https://img.shields.io/badge/official_version-1.0-blue)](#)
+[![version](https://img.shields.io/badge/version-1.0-blue)](#)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 [![date](https://img.shields.io/badge/date-2022--04--27-green)](#)
 [![date](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
