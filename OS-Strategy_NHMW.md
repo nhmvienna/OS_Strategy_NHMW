@@ -5,7 +5,7 @@
 [![version](https://img.shields.io/badge/version-1.0-blue)](#)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 [![date](https://img.shields.io/badge/date-2022--04--27-green)](#)
-[![date](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
+[![doi](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
 
 #### **Authors:** 
 *<a href="https://orcid.org/0000-0002-7214-7015">
