@@ -55,9 +55,9 @@ Burgring 7
 1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
 
-##
-<!--
 
+<!--
+##
 | Version | Date | DOI |
 |---------|------|-----|
  |1.0|2022-04-27|https://doi.org/doitocome|
