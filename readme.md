@@ -8,9 +8,9 @@
 
 ## Versions
 
-| Date | Version | Files |  
-|------|---------|-------|
-|2022-04-27|1.0|[`Online`](OS-Strategy_NHMW.md) [`.docx`](documents/OS-Strategie NHMW-2021-2022-04-24.docx) `.pdf`|
+| Date | Version | Files                                                                                  |  
+|------|---------|----------------------------------------------------------------------------------------|
+|2022-04-27|1.0| [`Online`](OS-Strategy_NHMW.md) [`.docx`](documents/OS-Strategie-NHMW-V1.docx) `.pdf` |
 
 # About
 In this repository the NHMW develops its strategy in which areas the museum already contributes and can contribute to implement Open
