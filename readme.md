@@ -27,5 +27,16 @@ Some of these changes can be managed internally or with the support of projects.
 additional resources are necessary as the basis of the NHMW are still the physical objects in the collections which have
 to be maintained in a responsible manner for the next centuries - in any case longer than the lifespan of a hard disk.
 
+<br>
+
+All documents and intellectual works, unless otherwise noted are licensed under the terms of the
+**Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+Please refer to the file LICENSE in the root directory of this repository or the online version
+at https://creativecommons.org/licenses/by/4.0/
+
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) 
+
+
 
 
