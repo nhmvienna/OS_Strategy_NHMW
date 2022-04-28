@@ -1,36 +1,33 @@
-# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW): <br><br> *The benefits of openness*
+# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW): <br><br>  *The benefits of openness*
 
 
 
-[![version](https://img.shields.io/badge/version-1.0-blue)](#)
-[![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
-[![date](https://img.shields.io/badge/date-2022--04--27-green)](#)
-[![doi](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
+<img src="https://img.shields.io/badge/version-1.0-blue"> 
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--4.0-brightgreen"></a>
+<img src="https://img.shields.io/badge/date-2022--04--27-green">
+<a href="https://doi.org/doitocome"><img src="https://img.shields.io/badge/doi-20020427-orange"></a>
 
-#### **Authors:** 
-*<a href="https://orcid.org/0000-0002-7214-7015">
-Vohland, Katrin <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
-<a href="https://orcid.org/0000-0002-5827-0797">
-Eichert, Stefan <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
+
+###
+
+
+
+**Authors:**   
+*[Vohland, Katrin](https://orcid.org/0000-0002-7214-7015) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-7214-7015);
+[Eichert, Stefan](https://orcid.org/0000-0002-5827-0797) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-5827-0797);
 Fiedler, Sarah;
-<a href="https://orcid.org/0000-0002-3810-0504">
-Kapun, Martin <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
-<a href="https://orcid.org/0000-0002-8566-8848">
-Kroh, Andreas <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
-<a href="https://orcid.org/0000-0003-0564-4617">
-Mehu-Blantar, Ines <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
+[Kapun, Martin](https://orcid.org/0000-0002-3810-0504) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-3810-0504);
+[Kroh, Andreas](https://orcid.org/0000-0002-8566-8848) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-8566-8848);
+[Mehu-Blantar, Ines](https://orcid.org/0000-0003-0564-4617) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0003-0564-4617);
 Ott, Iris;
-<a href="https://orcid.org/0000-0002-5963-349X">
-Rainer, Heimo <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
-<a href="https://orcid.org/0000-0002-1373-456X">
-Schwentner, Martin <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;
-<a href="https://orcid.org/0000-0002-6537-106X">
-Zimmermann, Eva <img alt="ORCID logo" src="assets/orcid_16x16.png" width="16" height="16" /></a>;*
+[Rainer, Heimo](https://orcid.org/0000-0002-5963-349X) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-5963-349X);
+[Schwentner, Martin](https://orcid.org/0000-0002-1373-456X) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-1373-456X);
+[Zimmermann, Eva](https://orcid.org/0000-0002-6537-106X) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-6537-106X);*
 
-
-<br>
+##
 Please cite this document as follows:
-<br>
+
+
 
 > *Vohland, Katrin; Eichert, Stefan; Fiedler, Sarah;
 > Kapun, Martin; Kroh, Andreas; Mehu-Blantar, Ines; 
@@ -40,13 +37,11 @@ Please cite this document as follows:
 > Museum Wien (NHMW) - the benefits of openness. Version 1.0 (2022-04-27)
 > Naturhistorisches Museum Wien (Vienna 2022) https://doi.org/doitocome*
 
-[![BibTex](https://img.shields.io/badge/Cite-BibTex-lightgrey)](citations/vohland2022.BIB)
-<br>
-<br>
-<br>
 
 
+<a href="citations/vohland2022.BIB"><img src="https://img.shields.io/badge/Cite-BibTex-lightgrey"></a>
 
+##
 
 [![nhmw logo](assets/logo.svg)](https://nhm-wien.ac.at)
 
@@ -54,8 +49,22 @@ Burgring 7
 1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
 
-<br>
-<br>
+##
+
+| Version | Date | DOI |
+|---------|------|-----|
+ |1.0|2022-04-27|https://doi.org/doitocome|
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+
+####
+
+\pagebreak
+
 
 # Table of Contents
 * [**Summary**](#summary)
@@ -128,6 +137,8 @@ Burgring 7
 * [**Acknowledgements**](#acknowledgements)
 
 ---
+
+\pagebreak
 
 # Summary
 
@@ -216,11 +227,7 @@ consciousness for historical burdens and imbalances especially with
 respect to indigenous communities. CARE stands for **C**ollective
 Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics.
 
-<p align="center">
-<a href="https://www.gida-global.org/care" target="_blank">
-<img src="https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+CARE.png" alt="fair_care" height="250">
-</a>
-</p>
+[![](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+CARE.png)](https://www.gida-global.org/care)
 
 ><sub>*Figure 1: This graphic hints to the claim that data not only have to be FAIR,
 but also acknowledge historical burdens and power imbalances[^8].   
@@ -302,11 +309,7 @@ in place. For the intention of this paper we define the terms as we
 understand them in our context for each of the different sessions
 addressed, along the focus on the museum (Figure 2).
 
-<p align="center">
-
-<img src="assets/fig2.png" alt="fair_care">
-
-</p>
+![](assets/fig2.png)
 
 ><sub>*Figure 2: A terminology landscape centering the museum (own graphic, Martin Kapun [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).)*</sub>
 
@@ -802,18 +805,12 @@ which has an open access policy and matching funding for research
 resulting from FWF-funded projects. Complemented partially by financial
 support of the research departments.
 
-<p align="center">
-
-<img src="assets/fig3.png" alt="fair_care">
-
-</p>
+![](assets/fig3.png)
 
 ><sub>*Figure 3: Publications of the NHM Vienna in 2021 classified into impact
 factor, peer reviewed, and open access publications (left panel) and
 according to their type (right panel). Graphics: Andreas Kroh, NHMW. 
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*</sub>
-
-
 
 
 Summing up, Open Access lowers barriers for access to research results
