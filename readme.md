@@ -1,16 +1,18 @@
 [![nhmw logo](assets/logo.svg)](https://nhm-wien.ac.at)
 # Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW): <br> *The benefits of openness*
 
-[![version](https://img.shields.io/badge/official_version-1.0-blue)](OS-Strategy_NHMW.md)
+[![version](https://img.shields.io/badge/official_version-1.0-orange)](OS-Strategy_NHMW.md)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 [![date](https://img.shields.io/badge/date-2022--04--27-green)](#)
-[![date](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
+[![DOI](https://zenodo.org/badge/485797730.svg)](https://zenodo.org/badge/latestdoi/485797730)
 
 ## Versions
 
-| Date | Version | Files                                                                                                                                                                            |  
-|------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Date | Version | Files |  
+|------|---------|-------|
 |2022-04-27|1.0| [`Online`](OS-Strategy_NHMW.md) [`.pdf`](documents/OS-Strategy-NHMW_V1.pdf) |
+
 
 # About
 In this repository the NHMW develops its strategy in which areas the museum already contributes and can contribute to implement Open

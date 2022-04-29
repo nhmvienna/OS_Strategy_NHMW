@@ -10,10 +10,10 @@
 uncommentend-->
 
 <!--begin-->
-[![version](https://img.shields.io/badge/version-1.0-blue)](#)
+[![version](https://img.shields.io/badge/version-1.0-orange)](#)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 [![date](https://img.shields.io/badge/date-2022--04--27-green)](#)
-[![date](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
+[![doi](https://img.shields.io/badge/DOI-10.5281/zenodo.6505108-blue)](https://doi.org/10.5281/zenodo.6505108)
 <!--end-->
 
 <!--uncommentbegin
@@ -60,7 +60,7 @@ Please cite this document as follows:
 > Zimmermann, Eva: 
 > Open Science in Museums - Strategy of the Naturhistorisches 
 > Museum Wien (NHMW) - the benefits of openness. Version 1.0 (2022-04-27)
-> Naturhistorisches Museum Wien (Vienna 2022) https://doi.org/doitocome*
+> Naturhistorisches Museum Wien (Vienna 2022) https://doi.org/10.5281/zenodo.6505108*
 
 
 
@@ -89,9 +89,9 @@ Burgring 7
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
 \
 
-| Version | Date | DOI |
-|---------|------|-----|
-|1.0|2022-04-27|https://doi.org/doitocome|
+| Version | Date     | DOI                                      |
+|---------|----------|------------------------------------------|
+|1.0      |2022-04-27|[10.5281/zenodo.6505108](https://doi.org/10.5281/zenodo.6505108)|
 
 \
 This work is licensed under a
