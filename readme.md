@@ -10,7 +10,7 @@
 
 | Date | Version | Files                                                                                                                                                                            |  
 |------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2022-04-27|1.0| [`Online`](OS-Strategy_NHMW.md) [`.docx`](https://github.com/nhmvienna/OS_Strategy_NHMW/raw/main/documents/OS-Strategy-NHMW_V1.docx) [`.pdf`](documents/OS-Strategy-NHMW_V1.pdf) |
+|2022-04-27|1.0| [`Online`](OS-Strategy_NHMW.md) [`.pdf`](documents/OS-Strategy-NHMW_V1.pdf) |
 
 # About
 In this repository the NHMW develops its strategy in which areas the museum already contributes and can contribute to implement Open

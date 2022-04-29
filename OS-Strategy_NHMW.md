@@ -1,18 +1,26 @@
+<!--begin-->
 # Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW): <br><br>  *The benefits of openness*
 ###
+<!--end-->
 
-<!-- comment .pdf creation begin -->
+<!--uncommentbegin
+# Open Science in Museums - Strategy of the Naturhistorisches Museum Wien (NHMW): 
+# *The benefits of openness*
+
+uncommentend-->
+
+<!--begin-->
 [![version](https://img.shields.io/badge/version-1.0-blue)](#)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 [![date](https://img.shields.io/badge/date-2022--04--27-green)](#)
 [![date](https://img.shields.io/badge/doi-20020427-orange)](https://doi.org/doitocome)
-<!-- comment .pdf creation end -->
+<!--end-->
 
-<!-- uncomment begin
+<!--uncommentbegin
 ###
-uncomment end -->
+uncommentend-->
 
-<!-- comment .pdf creation begin -->
+<!--begin-->
 **Authors:**   
 *[Vohland, Katrin](https://orcid.org/0000-0002-7214-7015) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-7214-7015);
 [Eichert, Stefan](https://orcid.org/0000-0002-5827-0797) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-5827-0797);
@@ -24,9 +32,9 @@ Fiedler, Sarah;
 [Rainer, Heimo](https://orcid.org/0000-0002-5963-349X) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-5963-349X);
 [Schwentner, Martin](https://orcid.org/0000-0002-1373-456X) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-1373-456X);
 [Zimmermann, Eva](https://orcid.org/0000-0002-6537-106X) [![orcID](assets/ORCID-iD_icon-vector.svg)](https://orcid.org/0000-0002-6537-106X);*
-<!-- comment .pdf creation end -->
+<!--end-->
 
-<!-- -- uncomment begin
+<!--uncommentbegin
 **Authors:**   
 *[Vohland, Katrin](https://orcid.org/0000-0002-7214-7015) [![orcID](assets/ORCID-iD_icon-vector10.svg)](https://orcid.org/0000-0002-7214-7015);
 [Eichert, Stefan](https://orcid.org/0000-0002-5827-0797) [![orcID](assets/ORCID-iD_icon-vector10.svg)](https://orcid.org/0000-0002-5827-0797);
@@ -40,7 +48,7 @@ Fiedler, Sarah;
 [Zimmermann, Eva](https://orcid.org/0000-0002-6537-106X) [![orcID](assets/ORCID-iD_icon-vector10.svg)](https://orcid.org/0000-0002-6537-106X);*
 
 ##
-uncomment end -->
+uncommentend-->
 
 <br>
 Please cite this document as follows:
@@ -61,39 +69,38 @@ Please cite this document as follows:
 <br>
 <br>
 
-<!-- uncomment begin
+<!--uncommentbegin
 ##
-uncomment end -->
+uncommentend-->
 
-<!-- comment .pdf creation begin -->
+<!--begin-->
 [![nhmw logo](assets/logo.svg)](https://nhm-wien.ac.at)
 
 Burgring 7  
 1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
-<!-- comment .pdf creation end -->
+<!--end-->
 
-<!-- uncomment begin
+<!--uncommentbegin
 [![nhmw logo](assets/logosm.svg)](https://nhm-wien.ac.at)
 
 Burgring 7  
 1010 Wien  
 [https://nhm-wien.ac.at](https://nhm-wien.ac.at/)
-##
+\
+
+| Version | Date | DOI |
+|---------|------|-----|
+|1.0|2022-04-27|https://doi.org/doitocome|
+
+\
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-\
-
-| Version | Date | DOI |
-|---------|------|-----|
- |1.0|2022-04-27|https://doi.org/doitocome|
-####
-
 \pagebreak
-uncomment end -->
+uncommentend-->
 
 <br>
 <br>
@@ -170,9 +177,9 @@ uncomment end -->
 
 ---
 
-<!-- uncomment begin
+<!--uncommentbegin
 \pagebreak
-uncomment end -->
+uncommentend-->
 
 # Summary
 
