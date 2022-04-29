@@ -59,7 +59,7 @@ Please cite this document as follows:
 > Ott, Iris ; Rainer, Heimo; Schwentner, Martin;
 > Zimmermann, Eva: 
 > Open Science in Museums - Strategy of the Naturhistorisches 
-> Museum Wien (NHMW) - the benefits of openness. Version 1.0 (2022-04-27)
+> Museum Wien (NHMW): The benefits of openness. Version 1.0 (2022-04-27)
 > Naturhistorisches Museum Wien (Vienna 2022) https://doi.org/10.5281/zenodo.6505108*
 
 
