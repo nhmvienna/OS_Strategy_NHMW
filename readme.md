@@ -4,7 +4,7 @@
 [![version](https://img.shields.io/badge/official_version-1.0-orange)](OS-Strategy_NHMW.md)
 [![license](https://img.shields.io/badge/license-CC--BY--4.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 [![date](https://img.shields.io/badge/date-2022--04--27-green)](#)
-[![DOI](https://zenodo.org/badge/485797730.svg)](https://zenodo.org/badge/latestdoi/485797730)
+[![doi](https://img.shields.io/badge/DOI-10.5281/zenodo.6505108-blue)](https://doi.org/10.5281/zenodo.6505108)
 
 ## Versions
 
